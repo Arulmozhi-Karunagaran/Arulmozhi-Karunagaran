@@ -1,7 +1,7 @@
 ## Hello there! 👋 I'm Arulmozhi Karunagaran
 
 
-<img align="right" width="50%" src="/coding.gif">
+ <img src="https://github.com/Arulsaru/Arulsaru/assets/120626716/c336453c-418b-4318-9e4e-0d0f9991faee" width="50%" float="right" loop="infinite">
 
 A passionate self-taught 🚀 **Full Stack Web Developer** from India. 
 
