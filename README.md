@@ -1,7 +1,7 @@
 ## Hello there! 👋 I'm Arulmozhi Karunagaran
 
 
-<img align="right" width="50%" src="coding.gif">
+<img align="right" width="50%" src="/coding.gif">
 
 A passionate self-taught 🚀 **Full Stack Web Developer** from India. 
 
